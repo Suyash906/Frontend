@@ -1,8 +1,6 @@
----
-title: JavaScript Questions
-layout: layouts/page.njk
-permalink: /questions/javascript-questions/index.html
----
+
+## JavaScript Questions
+
 
 * Explain event delegation.
 * Explain how `this` works in JavaScript.
