@@ -1,0 +1,19 @@
+/* Set all the <p> elements to color red */
+p {
+  color:red
+}
+
+/* Set all the elements with id "para1" to color red */
+#para1 {
+  color:red
+}
+
+/* Set all the elements with class "colortext" to color red */
+.colortext {
+  color:red
+}
+
+/* Group selectors for multiple elements with same css */
+p, h1 {
+  color:red
+}
